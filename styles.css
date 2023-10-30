@@ -305,7 +305,7 @@ a {
 .project-card {
   width: 90%;
   height: 550px;
-  background-image: url(./images/projects/Project1.png);
+  background-image: url(./images/projects/recepie.png);
   background-size: cover;
   /* background-repeat: no-repeat; */
   position: relative;
@@ -399,15 +399,15 @@ a {
 }
 
 .project-heading {
-  font-size: 50px;
+  font-size: 60px;
   font-weight: bold;
   line-height: 3rem;
-  color: white;
+  color: yellow;
 }
 
 .project-subHeading {
   width: 70%;
-  font-size: 26px;
+  font-size: 18px;
   font-style: italic;
 }
 
@@ -437,19 +437,27 @@ a {
 }
 
 #project1 {
-  background-image: url(./images/projects/Project5.png);
+  background-image: url(./images/projects/Project6.png);
 }
 
 #project2 {
   margin-left: 120px;
-  background-image: url(./images/projects/Project2.png);
+  background-image: url(./images/projects/ecoomzy.png);
 }
 #project3 {
-  background-image: url(./images/projects/Project3.png);
+  background-image: url(./images/projects/course.png);
 }
 #project4 {
   margin-left: 120px;
-  background-image: url(./images/projects/Project4.png);
+  background-image: url(./images/projects/expense.png);
+}
+#project5 {
+  /* margin-left: 120px; */
+  background-image: url(./images/projects/tour.png);
+}
+#project6 {
+  /* margin-left: 120px; */
+  background-image: url(./images/projects/bmi.png);
 }
 
 @media (max-width: 1300px) {
